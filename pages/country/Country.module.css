@@ -37,7 +37,6 @@
 }
 
 .details_panel{
-  padding: 20px;
   background-color: var(--background-color-light);
   box-shadow: var(--box-shadow);
   border-radius: 8px;
@@ -59,7 +58,7 @@
   color: var(--text-color-secondary);
 }
 
-.details_panel_borders_container{
+.details_panel_borders{
   padding: 20px;
 }
 .details_panel_borders_container{
